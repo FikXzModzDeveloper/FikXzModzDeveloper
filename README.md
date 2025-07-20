@@ -2,7 +2,7 @@
 <p align="center"><i>"embrace the uncertainty of life.."</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF99&center=true&vCenter=true&width=480&lines=Fullstack+Bot+Developer;Automation+Is+Art;Code.+Deploy.+Bypass.;0+to+Deploy%2C+No+Delay." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF99&center=true&vCenter=true&width=480&lines=jawa+jawa+jawa;Automation+Is+Art;Code.+anjay.+alok." alt="Typing SVG" />
 </p>
 
 ---
