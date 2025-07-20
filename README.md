@@ -1,5 +1,5 @@
-<h1 align="center">🧠 FikXzMods — Build Fast, Deploy Smarter</h1>
-<p align="center"><i>"Manual itu buat yang sabar. Gue enggak."</i></p>
+<h1 align="center">🧠 FikXzMods — ngga bisa apa apa</h1>
+<p align="center"><i>"embrace the uncertainty of life.."</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF99&center=true&vCenter=true&width=480&lines=Fullstack+Bot+Developer;Automation+Is+Art;Code.+Deploy.+Bypass.;0+to+Deploy%2C+No+Delay." alt="Typing SVG" />
@@ -7,22 +7,18 @@
 
 ---
 
-## 🧬 Tentang Gue
+## 🧬 About Me
 
-> Bukan sekadar ngoding.  
-> Gue ngebangun sistem yang kerja keras, supaya manusia nggak usah.
+> Bukan Dev.. Cuma Iseng Nama In Github gw ada kata Developer nya😹🗿
 
 ```js
-const dev = {
+const Wanjay = {
   nick: "FikXzMods",
-  alias: "FikXz / fxz",
+  alias: "au ah",
   location: "somewhere in Indonesia 🇮🇩",
   focus: [
-    "Bot WhatsApp & Telegram",
-    "Pterodactyl Panel Automator",
-    "HTML Deploy Tools",
-    "Intercepting CLI Tools"
+    "Gak tau",
   ],
   principle: "No manual setup. Auto everything.",
-  motto: "Bypass > Build > Control"
+  motto: "Mewing"
 }
