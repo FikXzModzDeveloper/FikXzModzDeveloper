@@ -1,4 +1,4 @@
-<h1 align="center">🧠 FikXzMods — ngga bisa apa apa</h1>
+<h1 align="center">💫 FikXzMods — ngga bisa apa apa</h1>
 <p align="center"><i>"embrace the uncertainty of life.."</i></p>
 
 <p align="center">
@@ -9,7 +9,8 @@
 
 ## 🧬 About Me
 
-> Bukan Dev.. Cuma Iseng Nama In Github gw ada kata Developer nya😹🗿
+> Bukan Dev.. Cuma Iseng Nama In Github gw ada kata Developer nya
+> mau gw ubah ngga bisa jir lah :v
 
 ```js
 const Wanjay = {
