@@ -2,7 +2,7 @@
 <p align="center"><i>"embrace the uncertainty of life.."</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF99&center=true&vCenter=true&width=480&lines=jawa+jawa+jawa;Automation+Is+Art;Code.+anjay.+alok." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF99&center=true&vCenter=true&width=480&lines=jawa+jawa+jawa;Automation+Is+Art;+anjay.+alok." alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🧬 About Me
 
 > Bukan Dev.. Cuma Iseng Nama In Github gw ada kata Developer nya
-> mau gw ubah ngga bisa jir lah :v
+> mau gw ubah ngga bisa jir lah :v tolong co🗿
 
 ```js
 const Wanjay = {
@@ -20,6 +20,6 @@ const Wanjay = {
   focus: [
     "Gak tau",
   ],
-  principle: "No manual setup. Auto everything.",
+  principle: "Mbut.",
   motto: "Mewing"
 }
